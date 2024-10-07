@@ -12,13 +12,16 @@ I actively work on freelancing platforms like Khamsat and Mostaql, proudly holdi
 Committed to empowering others, I provide valuable tips on freelancing and programming through my content. Additionally, as an Udemy instructor, I create comprehensive courses designed to help aspiring developers enhance their skills and achieve their career goals.
 
 ## 🚠 Skills:
-- **Programming Languages**: Java, Kotlin, JavaScript
-- **Frontend and Backend Development**: HTML, CSS, PHP, WordPress
-- **Tools**: Git, Android Studio, Figma
+- 🖥️ **Programming Languages**: ![Java](https://img.shields.io/badge/-Java-blue) ![Kotlin](https://img.shields.io/badge/-Kotlin-orange) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+- 🌐 **Frontend and Backend Development**: ![HTML](https://img.shields.io/badge/-HTML-red) ![CSS](https://img.shields.io/badge/-CSS-blue) ![PHP](https://img.shields.io/badge/-PHP-purple) ![WordPress](https://img.shields.io/badge/-WordPress-black)
+- 🛠️ **Tools**: ![Git](https://img.shields.io/badge/-Git-lightgrey) ![Android Studio](https://img.shields.io/badge/-Android%20Studio-green) ![Figma](https://img.shields.io/badge/-Figma-pink)
 
 ## 💎 Connect With Me:
 - [LinkedIn](https://www.linkedin.com/in/mahmoud-ahmed-abdelrazek/)
 - [Personal Website](https://www.codemanmahmoud.com)
+
+## 🌱 Currently Working On:
+I am currently working on converting a Laravel website into Android, iOS, and Windows applications.
 
 ## 🌎 Ready to Kickstart Your Freelancing Journey?
 If you're looking for a professional Android Developer, a skilled UI/UX Designer, or a proficient WordPress Developer, I'm here to help. Let's connect and build something extraordinary together. Ready to take your project to the next level? Reach out today! 🚀
