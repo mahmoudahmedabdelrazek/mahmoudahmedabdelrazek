@@ -14,7 +14,7 @@ Committed to empowering others, I provide valuable tips on freelancing and progr
 ## 🚠 Skills:
 - 🖥️ **Programming Languages**: ![Java](https://img.shields.io/badge/-Java-blue) ![Kotlin](https://img.shields.io/badge/-Kotlin-orange) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
 - 🌐 **Frontend and Backend Development**: ![HTML](https://img.shields.io/badge/-HTML-red) ![CSS](https://img.shields.io/badge/-CSS-blue) ![PHP](https://img.shields.io/badge/-PHP-purple) ![WordPress](https://img.shields.io/badge/-WordPress-black)
-- 🛠️ **Tools**: ![Git](https://img.shields.io/badge/-Git-lightgrey) ![Android Studio](https://img.shields.io/badge/-Android%20Studio-green) ![Figma](https://img.shields.io/badge/-Figma-pink)
+- 🛠️ **Tools**: ![Git](https://img.shields.io/badge/-Git-lightgrey) ![Android Studio](https://img.shields.io/badge/-Android%20Studio-green) ![Figma](https://img.shields.io/badge/-Figma-pink) ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-purple) ![VS Code](https://img.shields.io/badge/-VS%20Code-blue) ![IntelliJ](https://img.shields.io/badge/-IntelliJ-black)
 
 ## 💎 Connect With Me:
 - [LinkedIn](https://www.linkedin.com/in/mahmoud-ahmed-abdelrazek/)
