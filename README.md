@@ -20,9 +20,6 @@ Committed to empowering others, I provide valuable tips on freelancing and progr
 - [LinkedIn](https://www.linkedin.com/in/mahmoud-ahmed-abdelrazek/)
 - [Personal Website](https://www.codemanmahmoud.com)
 
-## 🌱 Currently Working On:
-I am currently working on converting a Laravel website into Android, iOS, and Windows applications.
-
 ## 🌎 Ready to Kickstart Your Freelancing Journey?
 If you're looking for a professional Android Developer, a skilled UI/UX Designer, or a proficient WordPress Developer, I'm here to help. Let's connect and build something extraordinary together. Ready to take your project to the next level? Reach out today! 🚀
 
