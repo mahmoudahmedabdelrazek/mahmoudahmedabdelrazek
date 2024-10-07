@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hello 👋, I'm Mahmoud Ahmed
 
-<!--
-**mahmoudahmedabdelrazek/mahmoudahmedabdelrazek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍💻 About Me:
+I'm an Android Developer and Web Developer with expertise in **Java**, **Kotlin**, and **WordPress**. I am passionate about building impactful software and contributing to open source projects. I also enjoy helping others learn programming and succeed in freelancing.
 
-Here are some ideas to get you started:
+## 🛠️ Skills:
+- **Programming Languages**: Java, Kotlin, JavaScript
+- **Frontend and Backend Development**: HTML, CSS, PHP, WordPress
+- **Tools**: Git, Android Studio, Figma
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## 📫 Connect With Me:
+- [LinkedIn]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/mahmoud-ahmed-abdelrazek/))
+- [Personal Website](www.codemanmahmoud.com)
+
+## 🌱 Currently Working On:
+I am currently working on converting a Laravel website into Android, iOS, and Windows applications.
