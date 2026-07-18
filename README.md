@@ -24,7 +24,6 @@ Currently seeking an **Android Developer position** in a software company where 
 ## 🏗️ Architecture:
 - ![MVP](https://img.shields.io/badge/-MVP-informational)
 - ![MVC](https://img.shields.io/badge/-MVC-informational)
-- Currently learning: ![MVVM](https://img.shields.io/badge/-MVVM-lightblue) & ![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-blue)
 
 ## 🎨 Design:
 - ![Figma](https://img.shields.io/badge/-Figma-pink)
@@ -53,6 +52,3 @@ App for discovering and booking nearby car wash services.
 
 ## 💎 Connect With Me:
 - [LinkedIn](https://www.linkedin.com/in/mahmoud-ahmed-abdelrazek/)
-
-## 🌱 Currently Working On:
-Deepening my skills in **MVVM architecture** and **Jetpack Compose** by refactoring existing projects to modern Android development standards.
