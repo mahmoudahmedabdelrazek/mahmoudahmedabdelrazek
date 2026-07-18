@@ -3,13 +3,12 @@
 # Hello 👋, I'm Mahmoud Ahmed
 
 ## 💻 About Me:
-From a young age, I've been passionate about technology and its power to transform lives. This passion led me to pursue a career as an **Android Developer**, where for over three years, I've been dedicated to creating innovative applications that exceed client expectations.
 
-My journey began with mastering the fundamentals of **Java** and **Kotlin**, laying the foundation for building robust and scalable applications. As I delved deeper, I embraced tools like **Firebase** to enhance app functionality and ensure seamless user experiences.
+Android Developer with 3+ years of experience building and delivering mobile applications using **Java**, **Kotlin**, **Firebase**, and **REST APIs**.
 
-Quality and customization drive every project I undertake. Whether developing high-performance Android apps or designing intuitive **UI/UX interfaces**, I leverage the latest technologies and best practices to bring visions to life.
+I've worked with clients across **Upwork** (100% Job Success Score, Rising Talent), **Khamsat** (Featured Seller), and **Mostaql**, and published personal Android applications on Google Play with **30,000+ cumulative downloads**.
 
-I actively work on freelancing platforms like **Upwork**, **Khamsat**, and **Mostaql**, where I have earned the trust and satisfaction of clients by delivering high-quality mobile solutions.
+Currently seeking an **Android Developer position** in a software company where I can contribute to real-world products and grow within a technical team.
 
 ## 🛠️ Programming Languages:
 - ![Java](https://img.shields.io/badge/-Java-blue)
@@ -18,9 +17,14 @@ I actively work on freelancing platforms like **Upwork**, **Khamsat**, and **Mos
 ## 🔧 Tools & Technologies:
 - ![Android Studio](https://img.shields.io/badge/-Android%20Studio-green)
 - ![Firebase](https://img.shields.io/badge/-Firebase-yellow)
+- ![Supabase](https://img.shields.io/badge/-Supabase-darkgreen)
 - ![Git](https://img.shields.io/badge/-Git-lightgrey)
-- ![VS Code](https://img.shields.io/badge/-VS%20Code-blue)
-- ![IntelliJ](https://img.shields.io/badge/-IntelliJ-black)
+- ![REST APIs](https://img.shields.io/badge/-REST%20APIs-blueviolet)
+
+## 🏗️ Architecture:
+- ![MVP](https://img.shields.io/badge/-MVP-informational)
+- ![MVC](https://img.shields.io/badge/-MVC-informational)
+- Currently learning: ![MVVM](https://img.shields.io/badge/-MVVM-lightblue) & ![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-blue)
 
 ## 🎨 Design:
 - ![Figma](https://img.shields.io/badge/-Figma-pink)
@@ -28,27 +32,27 @@ I actively work on freelancing platforms like **Upwork**, **Khamsat**, and **Mos
 
 ## 🚀 Featured Android Projects:
 
-### 🌾 Zar3ti
-A comprehensive agricultural application designed to support sustainable farming and crop management.
-* **Key Features**: Marketing requests for crops and agricultural consultation.
-* **UI/UX**: Clean, green-themed interface optimized for field use.
+### 🕌 Asma Allah Al-Husna — 21,000+ Downloads
+Offline Islamic reference app covering the 99 Names of Allah with meanings and audio.
+* **Tech**: Java, JSON-based content, media hosted on Supabase.
+* **[View on Google Play](https://play.google.com/store/apps/details?id=com.names.app.namesofallah.islam)**
 
-### 🏠 Sakani
-A real-time real estate and housing platform for searching and managing property listings.
-* **Functionality**: Secure user authentication and dynamic property browsing.
-* **Design**: Modern and intuitive UI focused on user experience.
+### 🐝 Mamlakat Al-Nahl — 10,000+ Downloads
+Educational app covering beekeeping and honey production.
+* **Tech**: Java, structured educational content in an accessible mobile format.
+* **[View on Google Play](https://play.google.com/store/apps/details?id=com.my.bees)**
 
-### 🏋️ Why Not Fitness
-A personal training and fitness tracking application.
-* **Features**: Customized workout plans and nutritional tracking interfaces.
-* **Integration**: Focused on responsive layouts for various device screen sizes.
+### 🏠 Sakani — Real Estate App (Client Project)
+Real estate browsing platform covering all Egyptian governorates.
+* **Tech**: Kotlin, MVP, Firebase/Firestore, FCM.
+* **Features**: Secure authentication, categorized listings, location-based filtering.
+
+### 🚿 Maghasel — Car Wash Booking App (Client Project)
+App for discovering and booking nearby car wash services.
+* **Tech**: Java, MVC, Firebase, Google Maps API.
 
 ## 💎 Connect With Me:
 - [LinkedIn](https://www.linkedin.com/in/mahmoud-ahmed-abdelrazek/)
-- [Personal Website](https://www.codemanmahmoud.com)
 
 ## 🌱 Currently Working On:
-I am currently working on converting complex web structures into high-performance **Android and iOS applications**.
-
-## 🌎 Ready to Build Something Great?
-If you're looking for a professional **Android Developer** or a skilled **UI/UX Designer**, I'm here to help. Let's connect and build something extraordinary together. Ready to take your project to the next level? Reach out today! 🚀
+Deepening my skills in **MVVM architecture** and **Jetpack Compose** by refactoring existing projects to modern Android development standards.
